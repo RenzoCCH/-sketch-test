@@ -1,5 +1,5 @@
-import { useNavigate, useParams } from "react-router-dom";
-import { useSelector } from "react-redux";
+import {useNavigate, useParams} from "react-router-dom";
+import {useSelector} from "react-redux";
 import styled from "styled-components";
 
 const CloseButton = styled.button`
@@ -33,7 +33,7 @@ const Numbers = styled.span`
 `;
 
 const Fig = styled.figure`
-  margin:0;
+  margin: 0;
   padding: 48px;
   height: calc(100vh - 162px);
   display: flex;

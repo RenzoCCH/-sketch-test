@@ -1,3 +1,32 @@
+# This is a create React App Project
+To run this project run this commands in the root folder
+npm install
+npm start
+
+# Decisions
+I choose a CRA application because it is easy to get started with,
+React Redux Toolkit was chosen in order to prove my knowledge on that library, and because it is a simple configuration of Redux. An alternative would have been react context.
+React Router was also chosen to prove my knowledge, This could have been easily done without it.
+Styled components were chosen for it's advantage on scoped style, and css on js.
+# Improvements
+Mobile
+This can be improved adding media queries for diferent resolutions.
+Test
+We can add unit Testing for all the components.
+Performance
+We can improve performance, memoizing react components and considering lazy loading on images and router pages.
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
